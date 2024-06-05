@@ -1,6 +1,2 @@
-Warning!!!
-
-Discord Web Hook CLient 1～3の公開を停止しました。
-Ver 4が出るまでお待ち下さい
-
-Discord Web Hook CLient 1～3のバージョンは外部に配布しないでください。
+2024/6/6 3.3.2.4   
+- スパム機能を削除
